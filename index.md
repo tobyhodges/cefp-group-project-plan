@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ambassador Programs Group Project Plan
+title: Project Plan
 ---
 
 <div class="mermaid">
