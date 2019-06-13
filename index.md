@@ -12,15 +12,15 @@ graph TD
     start -->|No| casestudies[Case Studies AKA depth not breadth]
     casestudies --> communicate
     communicate --> present[present at December wrap-up week];
-    click start "#feasibility"
-    click design "#design"
-    click run "#run"
-    click analyse "#analyse"
-    click communicate "#communicate"
-    click casestudies "#case"
+    click start "#s-feasibility"
+    click design "#s-design"
+    click run "#s-run"
+    click analyse "#s-analyse"
+    click communicate "#s-communicate"
+    click casestudies "#s-case"
 </div>
 
-<h2 name="feasibility">Step 1: Feasibility</h2>
+<h2 name="s-feasibility">Step 1: Feasibility</h2>
 
 Who are the survey audiences?
 
@@ -31,7 +31,7 @@ Who are the survey audiences?
 
 __DECISION:__ ask Lou - are we well-powered enough to run a survey?
 
-<h2 name="design">Step 2: Design</h2>
+<h2 name="s-design">Step 2: Design</h2>
 
 - Scope the survey questions
 - Draft the survey
@@ -40,7 +40,7 @@ __DECISION:__ ask Lou - are we well-powered enough to run a survey?
 - Agree the survey
 - Publish it
 
-<h2 name="run">Step 3: Run survey</h2>
+<h2 name="s-run">Step 3: Run survey</h2>
 
 - Recruit the program managers to run the survey (see step 1)
 - Set a timeline
@@ -49,29 +49,24 @@ __DECISION:__ ask Lou - are we well-powered enough to run a survey?
 - Publish the raw data (once all surveys done, have a cut-off deadline)
   - Especially return the data back to the program manager
   
-<h2 name="analyse">Step 4: Analyse survey data</h2>
+<h2 name="s-analyse">Step 4: Analyse survey data</h2>
 
 - Analyse our own communities first
 - Analyse all
 - Can we ask the program mgr to analyse their own?
 - Cross-cutting insights
 
-<h2 name="communicate">Step 5: Communicate results</h2>
+<h2 name="s-communicate">Step 5: Communicate results</h2>
 
 Produce some kind of communication of results.
 
 - External communication (report? Publication? Blog? One-pager? TBD) -- this is prepared by December
 - December meeting talk to fellows
 
-<h2 name="case">Step 6/alternative: Case studies</h2>
+<h2 name="s-case">Step 6/alternative: Case studies</h2>
 
 Explore verticals (depth not breadth) with qualitative interviews. (A nice-to-have or an alternative approach.)
 
 - Which communities?
 - Which verticals?
 - Scope interview questions
-
-
-
-
-
